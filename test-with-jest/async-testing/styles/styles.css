@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+    overflow: hidden;
+    background: #FAFAFA;
+}
+
+.main {
+    text-align: center;
+    padding: 3em 0;
+}
+
+button {
+    width: 9%;
+    background: #039BE5;;
+    color: #fff;
+    border-radius: 15px;
+    resize: vertical;
+    margin-top: 0;
+    margin-bottom: 0;
+    outline: 0;
+    padding: 10px;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+}

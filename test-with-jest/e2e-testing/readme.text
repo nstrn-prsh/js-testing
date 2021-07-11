@@ -1,0 +1,10 @@
+npm init
+npm i -D webpack webpack-cli
+npm i -D jest
+npm i -D puppeteer puppeteer-core
+
+------------
+
+npm i => node-module
+npm start => to start compiling and watching changes in codes
+npm test => to start testing

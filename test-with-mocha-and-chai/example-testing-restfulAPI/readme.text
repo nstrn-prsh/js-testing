@@ -1,0 +1,16 @@
+tdd-assert-methods-------------
+https://nodejs.org/dist/latest-v15.x/docs/api/assert.html
+https://www.chaijs.com/api/assert/
+
+bdd-expect-should-methods------
+https://www.chaijs.com/api/bdd/
+
+getting-started-----------------
+
+npm init
+npm i -D mocha chai
+
+cli-codes-----------------
+
+npm i 
+npm test => to run testing

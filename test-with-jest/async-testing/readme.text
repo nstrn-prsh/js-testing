@@ -1,0 +1,9 @@
+npm init
+npm i -D webpack webpack-cli
+npm i -D jest axios
+
+------------
+
+npm i => node-module
+npm start => to start compiling and watching changes in codes
+npm test => to start testing
